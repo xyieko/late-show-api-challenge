@@ -16,7 +16,7 @@ late-show-api-challenge/ │ ├── server/ │ ├── app.py # App factor
 ## Setup Instructions
 1. Clone the repository
 ```
-git clone https://github.com/your-username/late-show-api-challenge.git cd late-show-api-challenge
+git clone https://github.com/xyieko/late-show-api-challenge.git
 ```
 Set up a virtual environment 
 ```
